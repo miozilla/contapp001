@@ -1,5 +1,5 @@
 # contapp001 🐳
-contapp001 : #azure_container_app
+contapp001 : #azure_container_apps
 
 ## Objective
 Deploy light container from Microsoft Artifact Registry (k8s)
